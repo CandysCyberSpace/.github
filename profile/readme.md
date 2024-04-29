@@ -19,6 +19,7 @@
 [projects]
 - https://github.com/candywater/manchu2023
 - https://github.com/candywater/candywaterme_9yin-9yang
+- https://github.com/candywater/candywaterme_9yin-dc-boss
 
 ### [public repos]
 
