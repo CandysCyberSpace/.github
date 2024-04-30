@@ -41,6 +41,9 @@
 - https://github.com/candywater/CandyBinaryGenerator
 - https://github.com/candywater/BCP
 
+[mirrors]
+- https://github.com/candywater/mirror_candywaterme_html
+  
 [forks]
 - https://github.com/candywater/vscode_candy
 - https://github.com/candywater/keybaseclient_candy
