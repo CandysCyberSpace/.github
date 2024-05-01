@@ -14,7 +14,6 @@
 - https://github.com/candywater/candywaterme_server_rust
 - https://github.com/candywater/candywaterme_server_csharp
 - https://github.com/candywater/dkp
-- https://github.com/candywater/tool_work_time_counter
 
 [projects]
 - https://github.com/candywater/manchu2023
@@ -69,3 +68,4 @@
 - https://github.com/candywater/down_all_youtube_in_this_page
 - https://github.com/candywater/automatonSimulator
 - https://github.com/candywater/MultiPageBookEmbeddingDrawing
+- https://github.com/candywater/tool_work_time_counter
