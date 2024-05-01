@@ -28,6 +28,7 @@
 
 [tools]
 - https://github.com/candywater/CandyUtilities
+- https://github.com/candywater/tool_work_time_counter
 
 [fun things]
 - https://github.com/candywater/svelte-terminal
@@ -68,4 +69,3 @@
 - https://github.com/candywater/down_all_youtube_in_this_page
 - https://github.com/candywater/automatonSimulator
 - https://github.com/candywater/MultiPageBookEmbeddingDrawing
-- https://github.com/candywater/tool_work_time_counter
