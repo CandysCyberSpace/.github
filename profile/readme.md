@@ -51,6 +51,7 @@
 - https://github.com/candywater/bleachbit_candy
 
 [forked - finished works]
+- https://github.com/candywater/iSearch
 - https://github.com/candywater/svelte-color
 - https://github.com/candywater/ChineseSubtitleConversionTool
 
@@ -58,7 +59,6 @@
 - https://github.com/candywater/rust-postgres
 - https://github.com/candywater/node-emoji
 - https://github.com/candywater/vimium
-- https://github.com/candywater/iSearch-add-config
 - https://github.com/candywater/NES.css
 
 [archived]
